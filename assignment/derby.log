@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Apr 14 20:32:28 EDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016a-1e68-d7d3-00000b5ea1a0 
+on database directory memory:C:\Users\mayuri\Downloads\Java Coding Exercise-v26-20190213_161525\Java Coding Exercise-v26-20190213_161525\assignment\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/mayuri/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_192-b12
+user.dir=C:\Users\mayuri\Downloads\Java Coding Exercise-v26-20190213_161525\Java Coding Exercise-v26-20190213_161525\assignment
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
