@@ -24,13 +24,13 @@ public class UserController {
 		return userService.getAllUsers();
 
 	}
-
+	//getUser
 	@RequestMapping("/assignement/user/{id}")
 	public Optional<User> getUser(@PathVariable Long id) {
 		return userService.getUser(id);
 
 	}
-
+	//postUser
 	@RequestMapping(method = RequestMethod.POST, value = "/assignement/user")
 	public void addUser(@RequestBody User user) {
 		userService.addUser(user);
